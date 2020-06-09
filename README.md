@@ -3,7 +3,7 @@ Make-life-easier Python functions for image processing.
 
 # Includes
 
-show_image()
+<show_image()>
 - Show image using matplotlib
 
 color2gray()
