@@ -7,6 +7,7 @@ show_image()
 - Show image using matplotlib.
 Parameters:
 - 3D/2D image as uint8/16 array.
+
 Output:
 - No output
 
